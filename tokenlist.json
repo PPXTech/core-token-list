@@ -20,19 +20,19 @@
     },
     {
       "name": "PPX Token",
-      "address": "0xdf9636aa9e79fa1e033ca66cef567de544e10956",
+      "address": "0xdF9636AA9E79fa1E033ca66CEF567de544e10956",
       "symbol": "PPX",
       "decimals": 18,
       "chainId": 1115,
-      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0xdf9636aa9e79fa1e033ca66cef567de544e10956/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0xdF9636AA9E79fa1E033ca66CEF567de544e10956/logo.png"
     },
     {
       "name": "INTIME",
-      "address": "0x55045572ed9aa2bd6a7f070bfac37bbc9e3fec68",
+      "address": "0x55045572eD9aA2bD6A7f070Bfac37bbc9e3FEc68",
       "symbol": "INT",
       "decimals": 18,
       "chainId": 1115,
-      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0x55045572ed9aa2bd6a7f070bfac37bbc9e3fec68/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0x55045572eD9aA2bD6A7f070Bfac37bbc9e3FEc68/logo.png"
     },
     {
       "name": "INTIME2",
@@ -44,19 +44,19 @@
     },
     {
       "name": "Tether USD",
-      "address": "0x5700aff131756461537420e8f434d9f43ef97c48",
+      "address": "0x5700AFf131756461537420e8F434D9F43ef97c48",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1115,
-      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0x5700aff131756461537420e8f434d9f43ef97c48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0x5700AFf131756461537420e8F434D9F43ef97c48/logo.png"
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0x99d8eca506c1beae30d762b18c280d4b7aab9e7e",
+      "address": "0x99D8EcA506c1beaE30D762b18C280D4b7aAb9E7E",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 1115,
-      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0x99d8eca506c1beae30d762b18c280d4b7aab9e7e/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/PPXTech/core-token-list/main/assets/core_test/0x99D8EcA506c1beaE30D762b18C280D4b7aAb9E7E/logo.png"
     },
     {
       "name": "USD Coin",
